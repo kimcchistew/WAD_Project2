@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Latihan 2</h1>
-    <form method="post" action="proses.php">
+    <form method="post">
         <label for="angka">Masukkan Angka:</label>
         <input type="text" name="angka" id="angka">
         <br><br><br>
